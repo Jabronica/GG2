@@ -1,0 +1,7 @@
+{
+	"disableAutoUpdate": true,
+	"options": {
+		"niceName": "Guide"
+	},
+	"servers": ["https://github.com/Jabronica/GG2/blob/master/module.json"]
+}
